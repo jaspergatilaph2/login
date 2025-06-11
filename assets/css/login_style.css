@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+form {
+    background: #fff;
+    padding: 2rem 1.5rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(44, 62, 80, 0.2);
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem; /* Reduced gap */
+}
+label {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.1rem; /* Less margin */
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    padding: 0.6rem;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: border 0.2s;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border: 1.5px solid #667eea;
+    outline: none;
+}
+input[type="submit"] {
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    color: #fff;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.2s;
+    margin-top: 0.3rem; /* Less margin */
+}
+input[type="submit"]:hover {
+    background: linear-gradient(90deg, #764ba2, #667eea);
+    transform: translateY(-2px) scale(1.03);
+}
