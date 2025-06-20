@@ -1,7 +1,82 @@
 [
     {
-        "username": "2010223-1",
-        "email": "hunnybeegatila1@gmail.com",
-        "registered_at": "2025-06-11 13:08:19"
+        "username": "John Jasper Gatila",
+        "e_username": "b5d98d6cc23796d38a9d1da55bfe7270",
+        "password": "12345678",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$U1dUYjNnMktHdjB6QjdWag$wwmqw0xDqJeJqfLv7PH9heL8WO5zSlts1g3tldAliHs",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "02:31:32",
+        "e_logtime": "c13b9cf4a63eab220380e1b9bc3bb6ac"
+    },
+    {
+        "username": "2310005-2",
+        "e_username": "66e61567ea9d4af77bb56b4bb6ac2a5f",
+        "password": "12345678",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$VUFQNkowWTRoaG43NENvdg$etQq4b6quRzh\/L1sunILaDxdTg6KFOyPlEO9Gt8mMIw",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "02:35:22",
+        "e_logtime": "60b01fa4d9495ebea18f97ccd750fb10"
+    },
+    {
+        "username": "2310005-2",
+        "e_username": "66e61567ea9d4af77bb56b4bb6ac2a5f",
+        "password": "12345678",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$M0xmQ0NBYjkvNENtUXFaVQ$IVnKeBtml2Wknr0sdppGq9ToxzhVX+X+uvPbmsHSnlQ",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "02:44:36",
+        "e_logtime": "84f029a175d9771bcb2f28b62219c7ce"
+    },
+    {
+        "username": "John Jasper Gatila",
+        "e_username": "b5d98d6cc23796d38a9d1da55bfe7270",
+        "password": "12345678",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$emJyZ0RJWUVVWmxVY3c3ZQ$rdCKvwjsDxkA\/LE1b3m\/6MGimSVq2rKCIuWahomCqM8",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "02:45:09",
+        "e_logtime": "251e92ee164aa744051343da2b9ba1c8"
+    },
+    {
+        "username": "2310005-2",
+        "e_username": "66e61567ea9d4af77bb56b4bb6ac2a5f",
+        "password": "123456789",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$bEdiaE1BdURvSjBWUVN3NQ$98XImcYdGLZ2edh8KDZv0jzBWMYS+e3Kh8rNe2XNMN0",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "03:21:51",
+        "e_logtime": "ffd55d85b11899cdf4ebc2a452464aeb"
+    },
+    {
+        "username": "johndoe",
+        "e_username": "6579e96f76baa00787a28653876c6127",
+        "password": "12345678",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$SFp1Z2IwdWRmZjRQT2duWg$yl1\/HoHqBSXufvRK\/e9zu+y9t4g0CJyW4hQCVz\/H+jA",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "04:24:31",
+        "e_logtime": "35d6c1f366563b309a15da9a76861b53"
+    },
+    {
+        "username": "johndoe",
+        "e_username": "6579e96f76baa00787a28653876c6127",
+        "password": "pass1234",
+        "e_password": "$argon2id$v=19$m=65536,t=4,p=1$TEY4TWUwR1RILllua1QuOA$8dN\/eM6\/jXbKDjbjvsfG7WCcaOfWjICQGgKp76T8xX0",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "04:26:45",
+        "e_logtime": "9a767969bc924f04fe2495c99996bd3d"
+    },
+    {
+        "username": "johndoe",
+        "e_username": "6579e96f76baa00787a28653876c6127",
+        "password": "pass1234",
+        "e_password": "b4af804009cb036a4ccdc33431ef9ac9",
+        "log_date": "2025-06-20",
+        "e_logdate": "e600d35e0413de4c02696cc1242d2963",
+        "log_time": "04:41:38",
+        "e_logtime": "14e9646197fa260cc1d9d04f55fd624e"
     }
 ]
